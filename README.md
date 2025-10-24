@@ -41,10 +41,9 @@ The dashboard focuses on several high-level Key Performance Indicators (KPIs) an
 * **Trend:** The average price fluctuates throughout the year. The highest average price occurred in **August** (54,596), while the lowest was in **May** (42,444). This time-series view is crucial for pricing reviews.
 
 ---
-
 ## 🛠️ Technology Stack
 * **Tool:** **Tableau Desktop** (or Tableau Public/Server for viewing)
-* **File Type:** `.twb` (Tableau Workbook) or `.twbx` (Tableau Packaged Workbook)
+* **File Type:** `.twb` (Tableau Workbook)
 * **Data Source:** Likely a transaction or sales ledger database (CSV, SQL).
 
 ---
@@ -60,7 +59,7 @@ To view and interact with this dashboard:
     git clone [https://github.com/mohammedsarhan4085-bit/Store-Dashboard-Analysis.git](https://github.com/mohammedsarhan4085-bit/Store-Dashboard-Analysis.git)
     cd Store-Dashboard-Analysis
     ```
-2.  **Open the Source File:** Open the Tableau workbook file (e.g.`Store_Analysis.twbx`) using Tableau Desktop.
+2.  **Open the Source File:** Open the Tableau workbook file (e.g.`Store_Analysis.twb`) using Tableau Desktop.
 
 ---
 
