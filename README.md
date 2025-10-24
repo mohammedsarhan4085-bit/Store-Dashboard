@@ -11,7 +11,7 @@ The dashboard provides management with essential insights into pricing strategy,
 
 To get a quick look at the analysis:
 
-![Store Dashboard Analysis](Capture.PNG)
+![Store Dashboard Analysis](StoreDashboard.PNG)
 
 ---
 
